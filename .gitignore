@@ -86,6 +86,7 @@ ClientBin/
 *.jfm
 *.pfx
 *.publishsettings
+_misc/
 
 # SQL Server files
 *.mdf
