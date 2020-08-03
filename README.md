@@ -2,7 +2,7 @@
 
 Accompanying repository for tutorial on how to add a React app to a .NET Core MVC app.
 
-Tutorial Link: [https://www.newline.co/@esausilva/adding-a-react-app-to-a-.net-core-mvc-app--63008d15](https://www.newline.co/@esausilva/adding-a-react-app-to-a-.net-core-mvc-app--63008d15)
+Tutorial Link: [https://esausilva.com/2020/08/03/add-a-react-app-to-a-dot-net-core-mvc-app/](https://esausilva.com/2020/08/03/add-a-react-app-to-a-dot-net-core-mvc-app/)
 
 ## Giving Back
 
