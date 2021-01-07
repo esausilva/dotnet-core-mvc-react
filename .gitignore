@@ -3,6 +3,7 @@ node_modules/
 
 # Optional npm cache directory
 .npm
+.eslintcache
 
 # dotenv environment variables file
 .env
